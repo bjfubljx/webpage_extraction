@@ -1,0 +1,177 @@
+00bae
+<!DOCTYPE html>
+<html>
+<head>
+<!-- tplID:46074 2018文章页_纯净版 -->
+<script>if("micromessenger"==window.navigator.userAgent.toLowerCase().match(/MicroMessenger/i)&&"share.gmw.cn"!=window.location.hostname){var domainName=window.location.hostname.split(".")[0];"difang"==domainName?domainName="local":"it"==domainName?domainName="IT":"pic"==domainName?domainName="newpic":"whcy"==domainName&&(domainName="zgwhcy"),window.location.href="http://share.gmw.cn/"+domainName+window.location.pathname}
+</script>
+<meta charset="UTF-8" />
+<meta http-equiv="Cache-Control" content="max-age=0" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
+<meta name="renderer" content="webkit|ie-stand|ie-comp">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=3.0, user-scalable=no" >
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="description" content="题：把党的政治建设摆在首位——学习贯彻习近平总书记在十九届中央纪委三次全会重要讲话精神　 当前，反腐败斗争形势依然严峻复杂，全面从严治党依然任重道远，必须将“严”字长期坚持下去，不断推进党的自我革命。">
+<meta name="keywords" content="党的团结统一 从严治党 推进党 党的政治建设 政治生态">
+<meta name="filetype" content="0">
+<meta name="publishedtype" content="1">
+<meta name="pagetype" content="1">
+<META name="catalogs" content="9844">
+<META name="contentid" content="32340697">
+<META name="publishdate" content="2019-01-12">
+<META name="author" content="袁晴">
+
+<link href="http://img.gmw.cn/css/conBasic_style.css?_=20180910" type="text/css" rel="stylesheet" />
+<script src="http://img.gmw.cn/js/jquery.js"></script>
+<script src="http://img.gmw.cn/js/require/config.js?_=20181010"></script>
+<script src="http://img.gmw.cn/js/require.js"></script>
+<script src="http://img.gmw.cn/js/require/conBaseMain.js?_=20181112"></script>
+<title>
+新华社评论员：把党的政治建设摆在首位——学习贯彻习近平总书记在十九届中央纪委三次全会重要讲话精神
+_光明网</title>
+</head>
+<body class="g-mobile">
+<!-- 分享默认图 开始 -->
+<div style="position:absolute;top:-9999px;left:-9999px;width:0px;height:0px;overflow:hidden;display:none;"><img src="http://img.gmw.cn/pic/gmwLogo_share.jpg"></div>
+<!-- 分享默认图 结束 -->
+<!--顶部广告 start-->
+<div class="u-top-ad" id="top-ad"></div>
+<!--顶部广告 end-->
+<!--头部s-->
+<div class="g-header">
+    <div class="m-channel-head">
+        <div class="g-layout">
+            <div class="m-logo">
+                <!--频道logo start-->
+                <!-- 新版文章页头部频道logo ssi -->
+<meta charset="UTF-8" />
+<a href="http://politics.gmw.cn/" target="_blank"><img id="headerlogo" src="http://img.gmw.cn/pic/contentlogo/7523.gif" alt="时政频道"></a>
+001569
+
+                <!--频道logo end-->
+            </div>
+            <div class="u-slogan"></div>
+            <div class="u-reading">正在阅读：
+                新华社评论员：把党的政治建设摆在首位——学习贯彻习近平总书记在十九届中央纪委三次全会重要讲话精神
+            </div>
+        </div>
+    </div>
+    <!--导航-->
+    <!-- 新版文章页头部导航 ssi -->
+<!--手机端导航s-->
+<div class="m-mobile-nav">
+    <ul>
+        <li> <a href="http://politics.gmw.cn/" target="_blank">时政</a> </li>
+        <li> <a href="http://world.gmw.cn/" target="_blank">国际</a> </li>
+        <li> <a href="http://guancha.gmw.cn/" target="_blank">时评</a> </li>
+        <li> <a href="http://theory.gmw.cn/" target="_blank">理论</a> </li>
+        <li> <a href="http://culture.gmw.cn/" target="_blank">文化</a> </li>
+        <li> <a href="http://tech.gmw.cn/" target="_blank">科技</a> </li>
+        <li> <a href="http://edu.gmw.cn/" target="_blank">教育</a> </li>
+        <li> <a href="http://economy.gmw.cn/" target="_blank">经济</a> </li>
+        <li> <a href="http://life.gmw.cn/" target="_blank">生活</a> </li>
+        <li> <a href="http://legal.gmw.cn/" target="_blank">法治</a> </li>
+    </ul>
+    <span class="m-mobile-nav-btn"><i class="z-cur"></i></span> 
+</div>
+<!--手机端导航e-->
+<!--电脑端导航s-->
+<div class="m-channel-nav">
+    <ul class="m-nav">
+        <li> <a href="http://politics.gmw.cn/" target="_blank">时政</a> </li>
+        <li> <a href="http://world.gmw.cn/" target="_blank">国际</a> </li>
+        <li> <a href="http://guancha.gmw.cn/" target="_blank">时评</a> </li>
+        <li> <a href="http://theory.gmw.cn/" target="_blank">理论</a> </li>
+        <li> <a href="http://culture.gmw.cn/" target="_blank">文化</a> </li>
+        <li> <a href="http://tech.gmw.cn/" target="_blank">科技</a> </li>
+        <li> <a href="http://edu.gmw.cn/" target="_blank">教育</a> </li>
+        <li> <a href="http://economy.gmw.cn/" target="_blank">经济</a> </li>
+        <li> <a href="http://life.gmw.cn/" target="_blank">生活</a> </li>
+        <li> <a href="http://legal.gmw.cn/" target="_blank">法治</a> </li>
+        <li class="more-nav-btn"> <a href="http://www.gmw.cn/map.htm" target="_blank">更多</a> </li>
+    </ul>
+</div>
+<!--电脑端导航e-->
+</div>
+<!--头部e-->
+<!--面包屑 搜索s-->
+<div class="g-toolbar">
+    <div class="m-toolbar-box">
+        <div class="m-crumbs">
+			<a href="http://www.gmw.cn/">首页</a><font>&gt; </font>
+            <a href="../../"><img src="http://img.gmw.cn/pic/contentlogo/7523.gif" id="ArticleChannelID"></a><a href="../../"  target="_blank"  class="">时政频道</a><Font class="">> </Font><a href="../../node_9844.htm"  target="_blank"  class="">要闻</a>
+            <font class="">&gt; </font><font>正文</font> </div>
+        <!-- 新版搜索 ssi -->
+<meta charset="UTF-8" />
+<div class="f-search">
+    <div class="m-input-group">
+        <input id="searchText" type="text" value="" name="q" >
+        <button class="u-btn" type="submit" id="submitS"></button>
+    </div>
+</div>
+    </div>
+    <div class="m-line"><span></span></div>
+</div>
+<!--面包屑 搜索e-->
+<!--正文 start-->
+<div class="g-main">
+    <!--标题 start-->
+    <div class="m-title-box">
+        <h1 class="u-title">
+            新华社评论员：把党的政治建设摆在首位——学习贯彻习近平总书记在十九届中央纪委三次全会重要讲话精神
+        </h1>
+        <div class="m-con-info">
+            <span class="m-con-time">2019-01-12 11:51</span><span class="m-con-source">来源：<a href="http://www.xinhuanet.com/politics/2019-01/11/c_1123979535.htm" target="_blank">新华社</a></span>
+            <div class="m-share">
+                <div class="share" id="share"> <a class="share-qqzone"><i></i></a> <a class="share-wechat" href="javascript:;"><i></i>
+                    <div class="bg-code"></div>
+                    <div class="qrcode"></div>
+                    <span class="close-btn">X</span></a> <a class="share-weibo"><i></i></a> </div>
+            </div>
+        </div>
+    </div>
+    <!--标题 end-->
+    <div class="m-con-main">
+        <!--文章正文 start-->
+        <div id="articleBox" class="con-text">
+            <div id="article_inbox">
+                <div class="m-player_box" id="video">
+                    <div id="a1"></div>
+                </div>
+                <div id="MultiAttachPh" style="display: none">
+                    
+                </div>
+                <div id="PicUrlPh" style="display: none">
+                    
+                </div>
+                <div class="u-mainText">
+                    <!--enpproperty <articleid>32340697</articleid><date>2019-01-12 11:51:47.0</date><author></author><title>新华社评论员：把党的政治建设摆在首位——学习贯彻习近平总书记在十九届中央纪委三次全会重要讲话精神</title><keyword>党的团结统一,从严治党,推进党,党的政治建设,政治生态</keyword><subtitle></subtitle><introtitle></introtitle><siteid>2</siteid><nodeid>9844</nodeid><nodename>要闻</nodename><nodesearchname></nodesearchname>/enpproperty--><!--enpcontent--><!--enpcontent-->
+<p>　　 新华社北京1月11日电
+<strong>题：把党的政治建设摆在首位——学习贯彻习近平总
+0010f3
+书记在十九届中央纪委三次全会重要讲话精神</strong></p>
+
+<p>　　 新华社评论员</p>
+
+<p>　　
+“我们要继续推进全面从严治党，继续推进党风廉政建设和反腐败斗争。”在十九届中央纪委三次全会上，习近平总书记充分肯定党的十九大以来全面从严治党取得新的重大成果，深刻总结改革开放40年来党进行自我革命的“五个必须”的宝贵经验，对管党治党作出新部署、提出新要求。总书记的重要讲话，彰显了将全面从严治党进行到底的坚定决心，为我们取得全面从严治党更大战略性成果、巩固发展反腐败斗争压倒性胜利指明了方向。</p>
+
+<p>　　
+治国必先治党，治党务必从严。在进行社会革命的同时不断进行自我革命，是我们党区别于其他政党最显著的标志，也是我们党的制胜之道。党的十九大以来，以习近平同志为核心的党中央坚定不移推进全面从严治党，党内政治生态展现新气象，反腐败斗争取得压倒性胜利，全面从严治党取得重大成果，党在新时代新征程中焕发出更加强大的生机活力。</p>
+
+<p>　　
+当前，反腐败斗争形势依然严峻复杂，全面从严治党依然任重道远，必须将“严”字长期坚持下去，不断推进党的自我革命。党的政治建设是党的根本性建设，决定党的建设方向和效果。必须把党的政治建设摆在首位，以之为统领全面推进党的建设。</p>
+
+<p>　　
+加强党的政治建设，要不断强化思想武装。坚持用习近平新时代中国特色社会主义思想武装头脑、指导实践，深入贯彻落实党的十九大精神，经常对表对标，及时校准偏差，发挥政治指南针作用，把全党智慧和力量凝聚到党中央的决策部署上来。</p>
+
+<p>　　
+加强党的政治建设，要牢牢抓住保证全党服从中央、维护党中央权威和集中统一领导这个首要任务。历史和现实都表明，严格遵守政治纪律和政治规矩，是讲政治的本质要求，是维护党的团结统一的根本保证。从严治党，就要严明党的政治纪律和政治规矩，坚决反对自行其是、阳奉阴违、另搞一套等，始终在思想上政治上行动上同以习近平同志为核心的党中央保持高度一致，切实做到有令必行、有禁必止，确保全党步调一致、行动统一。</p>
+
+<p>　　
+加强党的政治建设，要做好营造良好政治生态的基础性工作。所谓“水重深而鱼悦，林修茂而鸟喜”，政治生态良好，党内风气就正、人心就齐、干劲就足，各项事业就能蓬勃发展；反之，政治生态污浊、党内生活不健康，就会弊病丛生。要贯彻落实新形势下党内政治生活若干准则，树立正确选人用人导向，倡导清清爽爽的同志关系、规规矩矩的上下级关系，发展积极健康的党内政治文化，涵养风清气正的政治生态，为推进党的政治建设养正气、固根本。</p>
+
+<p>　　
+加强党的政治建设，贵在知行合一、落细落实。增强“四个意识”、坚定“四个自信”、做到“两个维护”，是具体的不是抽象的，不能停留在口头上，必须体现到实际行动中。我们讲政治，讲的是实干政治，而不是空头政治，能否从严从实、知行合一，是检验政治品质的试金石。对党中央的决策部署，必须坚定不移贯彻、不折不扣落实，用真抓实干担当责任、诠释忠诚。</p>
+<a href="http://www.gmw.cn"><img src="https://img.gmw.cn/pic/content_logo.png" title="返回光明网首页"></a><!--/enpcontent--><p style="text-align:right;"><span class="liabilit
